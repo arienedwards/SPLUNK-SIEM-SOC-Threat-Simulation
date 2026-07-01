@@ -1,0 +1,2 @@
+# SOC-Security-Lab-SIEM-Deployment-Threat-Simulation
+This project details the end-to-end implementation of a functional Security Operations Center (SOC) environment. The objective was to design and deploy a SIEM (Security Information and Event Management) system, establish a log ingestion pipeline, simulate network reconnaissance activity, and visualize the resulting telemetry for security analysis.
