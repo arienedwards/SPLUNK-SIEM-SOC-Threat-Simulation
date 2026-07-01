@@ -1,4 +1,4 @@
-SOC Security Lab: SIEM Infrastructure & Threat Simulation
+SPLUNK SOC Security Lab: SIEM Infrastructure & Threat Simulation
 This project documents the design and implementation of a closed-loop Security Operations Center (SOC) lab environment. The objective was to engineer a functional SIEM (Security Information and Event Management) pipeline capable of ingesting raw system telemetry and validating that data against simulated adversary activity.
 
 Tech Stack:
